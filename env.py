@@ -1,0 +1,3 @@
+pinecone_api_key="0b430136-866c-419e-b6c2-f073c167026f"
+groq_api_key="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"
+cohere_api_key="5kxf79VcQjj9SjtqtgZ2G4Ar1rkSOepvIeG6I1pOD"
